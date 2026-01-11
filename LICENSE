@@ -1,1 +1,55 @@
+Blaze2D Engine Licensing
 
+Code License (MIT)
+==================
+
+Copyright (c) 2025 Blaze2D Engine contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+AI Training Restriction
+-----------------------
+
+Notwithstanding the permissions above, you may not use the Software, in whole
+or in part, to train, fine-tune, or otherwise develop machine learning or
+artificial intelligence models or systems.
+
+Art Assets and Game Content License
+===================================
+
+All art assets, sound effects, story, characters, level designs, trademarks,
+logos, and other non-code content in this repository ("Assets") are All Rights
+Reserved, except as expressly granted below. Music in this repository may be
+used, copied, modified, and distributed for any purpose, provided that it is
+credited to the original copyright holder(s).
+
+You may use, copy, modify, distribute, publicly display, and create Derivative
+Works of the Assets, provided that you do not use them to reproduce, recreate,
+or remake another video game or substantially similar gameplay experience.
+
+Mods Exception
+--------------
+
+You may create, distribute, and publicly display mods, add-ons, and other
+derivative works that are intended to operate with the finished product. Mods
+may include and adapt the Assets solely as needed for use with the finished
+product, but may not redistribute the Assets on a standalone basis.
+
+This Assets license does not grant any rights in the Blaze2D Engine name or
+branding.
